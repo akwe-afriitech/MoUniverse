@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525202348447",
+    "project_id": "mouniverse-d1793",
+    "storage_bucket": "mouniverse-d1793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525202348447:android:9589b113613bbb4b3a05aa",
+        "android_client_info": {
+          "package_name": "com.example.mouniverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525202348447-bn73hrpj0i8290c8difepid8chuj95cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU18Wrcmpn_HPgZK8GGgsC8XXd7KRywK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525202348447-bn73hrpj0i8290c8difepid8chuj95cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
