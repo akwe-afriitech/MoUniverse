@@ -1,33 +1,42 @@
 {
   "project_info": {
-    "project_number": "525202348447",
-    "project_id": "mouniverse-d1793",
-    "storage_bucket": "mouniverse-d1793.appspot.com"
+    "project_number": "561693149168",
+    "firebase_url": "https://mo-universe-default-rtdb.firebaseio.com",
+    "project_id": "mo-universe",
+    "storage_bucket": "mo-universe.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:525202348447:android:9589b113613bbb4b3a05aa",
+        "mobilesdk_app_id": "1:561693149168:android:217cc8571793ca195f7f35",
         "android_client_info": {
-          "package_name": "com.example.mouniverse"
+          "package_name": "com.MoUniverse.mo_universe"
         }
       },
       "oauth_client": [
         {
-          "client_id": "525202348447-bn73hrpj0i8290c8difepid8chuj95cl.apps.googleusercontent.com",
+          "client_id": "561693149168-83b9nekjv5h048i47g2eva4qo0sarfj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MoUniverse.mo_universe",
+            "certificate_hash": "821f71a718ab4e7f76e86eba47934bb83b9c2780"
+          }
+        },
+        {
+          "client_id": "561693149168-qmjq39jisa0pce68gdvvj5b3ka58b1gs.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBU18Wrcmpn_HPgZK8GGgsC8XXd7KRywK4"
+          "current_key": "AIzaSyAT1vFvHD1xUN9wjgLluoYOYuaWjwQcrXM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "525202348447-bn73hrpj0i8290c8difepid8chuj95cl.apps.googleusercontent.com",
+              "client_id": "561693149168-qmjq39jisa0pce68gdvvj5b3ka58b1gs.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

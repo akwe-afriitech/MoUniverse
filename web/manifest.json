@@ -1,11 +1,11 @@
 {
-    "name": "mouniverse",
-    "short_name": "mouniverse",
+    "name": "mo_universe",
+    "short_name": "mo_universe",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A mobile for easy financial transfers",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
